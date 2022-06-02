@@ -27,7 +27,7 @@ ui.layout(
           <text marginTop="12" textSize="16sp" text="因为获得新菜谱时的[新]与[神]级颜色太接近，防止品阶数据出错，使用前需要点一下菜谱图鉴然后退出，把新菜的标记清掉"/>
           <text marginTop="12" text="其他：" textSize="18sp"/>
           <text marginTop="12" text="log文件地址：/sdcard/AutoUserData/log.txt；点击右上角菜单可清除log缓存。"/>
-          <text marginTop="12" text="代码 github 地址："/>
+          <text marginTop="12" text="代码 github 地址：https://github.com/yuwenxifan/autoUserData"/>
           <text marginTop="12" text=""/>
         </vertical>
       </vertical>
